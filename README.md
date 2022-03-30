@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gvardeezzz
 - 👀 I’m interested in swimming & programming in Java.
-- 🌱 I’m currently self-learning to code on Java.
+- 🌱 I’m currently self-learning to code in Java.
 - 💞️ I’m looking to collaborate on interesting tasks to improve my skills in programming in Java.
 - 📫 How to reach me Telegram: @SeregaMotargem
 
